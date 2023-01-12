@@ -1,0 +1,14 @@
+C:\Users\aligm\source\repos\test1\test1\bin\Debug\netcoreapp3.1\test1.exe
+C:\Users\aligm\source\repos\test1\test1\bin\Debug\netcoreapp3.1\test1.deps.json
+C:\Users\aligm\source\repos\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.json
+C:\Users\aligm\source\repos\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.dev.json
+C:\Users\aligm\source\repos\test1\test1\bin\Debug\netcoreapp3.1\test1.dll
+C:\Users\aligm\source\repos\test1\test1\bin\Debug\netcoreapp3.1\test1.pdb
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.csproj.AssemblyReference.cache
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfoInputs.cache
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfo.cs
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.csproj.CoreCompileInputs.cache
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.dll
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.pdb
+C:\Users\aligm\source\repos\test1\test1\obj\Debug\netcoreapp3.1\test1.genruntimeconfig.cache
