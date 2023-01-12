@@ -6,13 +6,35 @@ namespace test1
     {
         static void Main(string[] args)
         {
-            var reverse = new Reverse();
+            #region Task 1
+            var kvadrat = new Kvadrat();
+            Console.Write("massivin uzunlugunu daxil et:");
+           
+            
+            int n = int.Parse(Console.ReadLine());
+            int[] mass = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                mass[i] = int.Parse(Console.ReadLine());
+            }
+            
+            var getSqrtElements = kvadrat.GetSqrtElements(mass);
+            kvadrat.Print(getSqrtElements);
 
-            Console.Write("eded daxil edin:");
-            int number = int.Parse(Console.ReadLine());
+            
 
-            int reversenumber = reverse.Number(number);
-            Console.WriteLine(reversenumber);
+            #endregion
+
+            #region Task 2
+            //var reverse = new Reverse();
+
+            //Console.Write("eded daxil edin:");
+            //int number = int.Parse(Console.ReadLine());
+
+            //int reversenumber = reverse.Number(number);
+            //Console.WriteLine(reversenumber);
+            #endregion
+
 
         }
     }
